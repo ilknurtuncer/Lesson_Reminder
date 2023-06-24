@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+    
+}
+
+img{
+    width: 140px;
+    height: 140px;
+    margin-right: 0.1rem;
+    border-radius: 1rem;
+}
+p{
+    display: flex;
+    flex-direction: column;
+   display: block;
+   font-size: 1.3rem;
+  margin-left: 2rem;
+}
+.lessName{
+    color: rgb(240, 194, 11);
+}
+p span {
+    color: white;
+   
+}
